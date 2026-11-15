@@ -29,21 +29,9 @@ What actually drives how satisfied people in Europe are with their lives: money,
 - Clustering identified **four distinct well-being profiles** across Europe.
 - The results point to **four policy directions** for improving well-being beyond income growth.
 
-## Repository structure
+## Getting the data
 
-```
-├── data/          # How to obtain the ESS Round 10 data (not redistributed)
-├── notebooks/     # Analysis notebook(s)
-├── figures/       # Charts used in the thesis
-└── README.md
-```
-
-## How to run
-
-1. Download ESS Round 10 from the [European Social Survey data portal](https://www.europeansocialsurvey.org/) (free registration).
-2. Place the file in `data/`.
-3. Install requirements: `pip install -r requirements.txt`
-4. Open the notebook in `notebooks/` and run all cells.
+The ESS Round 10 data is free to download from the [European Social Survey data portal](https://www.europeansocialsurvey.org/) after registration. It is not redistributed here.
 
 ## Tools
 
